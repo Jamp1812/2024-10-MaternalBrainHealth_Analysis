@@ -10,4 +10,4 @@ Motherhood represents a chapter in a woman's life that is accompanied by profoun
 
 ## Contributing
 
-I highly encourage everyone interested to use the gathered data for further analysis.
+I highly encourage everyone interested to preprocess the MRI scans and to run the analysis themselves 
