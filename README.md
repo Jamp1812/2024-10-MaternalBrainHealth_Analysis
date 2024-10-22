@@ -1,8 +1,8 @@
-# What contributes to healthy aging of mothers' brains? A comparative analysis of brain age estimation from MRI data and its association with phenotypic characteristics
+# What contributes to healthy aging of mother's brains? A comparative analysis of brain age estimation from MRI data and its association with phenotypic characteristics
 
 This project is a survey on the topic of generative AI in student learning. 
-It was conducted for a data literacy course at the University of Tübingen as part of a Cognitive Science Master's degree. 
-The project was collaborated on by Jan Goebel and David Mueller. The supervising professor is Prof. Dr. Philipp Hennig.
+It was conducted for the lab rotation module at the University of Tübingen as part of a Cognitive Science Master's degree. 
+The project was worked on by Jan Goebel. The supervising professor is Prof. Dr. Tobias Kaufmann.
 
 ## Abstract
 
