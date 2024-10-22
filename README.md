@@ -1,4 +1,4 @@
-# What contributes to healthy aging of mothers' brains?\\
+# What contributes to healthy aging of mothers' brains?
 # A comparative analysis of brain age estimation from MRI data and its association with phenotypic characteristics
 
 This project is a survey on the topic of generative AI in student learning. 
