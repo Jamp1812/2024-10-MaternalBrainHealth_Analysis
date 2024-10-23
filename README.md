@@ -10,4 +10,4 @@ Motherhood represents a chapter in a woman's life that is accompanied by profoun
 
 ## Contributing
 
-I highly encourage everyone interested to preprocess the MRI scans and to run the analysis themselves. The full brain age prediction model can be found on the Github of Esten Leonardsen: https://github.com/estenhl/pyment-public. 
+I highly encourage everyone interested to preprocess the MRI scans and to run the analysis themselves. The full brain age prediction model and code to pre-process the MRI scans can be found on the Github of Esten Leonardsen: https://github.com/estenhl/pyment-public. 
